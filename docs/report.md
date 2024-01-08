@@ -69,3 +69,8 @@ We had one meeting and one in class session during this sprint. In class, projec
 
 Overall, Sprint 2 was a success. All of the planned tasks were completed and on track to meet the overall goals of the project. Three user stories have been completed, which can be seen as a significant milestone.
 
+
+
+## **Sprint 3 Report**
+
+All the following taskls were completed in Sprint 3.
