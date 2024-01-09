@@ -150,8 +150,20 @@ Sprint 6 marked the final stage of the project, with all requested changes imple
 
 
 ## **Application Walk Through**
+The application workflow is described below. For the website diagram of the project, click [here](web-diagram.md).
 
-## **Storyboard** 
+1. Home Page (before login): The user is first greeted with a home page that has a search bar and a login button.
+2. Login Page: By clicking on the login button, the user is redirected to the login page where they need to fill in their credentials and click on the login button to access their account.
+3. Home Page (after login): After successful authentication, users are automatically redirected back to an enhanced version of the home page where they can now access the complete dashboard, including the names and folders of the patients.
+4. Dashboard of Selected Patient: Users can click on a folder icon which takes them to a dashboard containing multiple images related to selected patients.
+5. Details of Selected Image: Clicking on any image opens up detailed information about that particular image.
+6. Segment Page: There’s also an option called “Segment” on the navigation bar which users can click. It leads them to a segment page where they can upload images for segmentation.
+    - Users upload an image by clicking on the “dropzone” area and selecting an image from their device.
+    - After selecting an image, users have options like “Reset”, “Reset All” before finally submitting it by clicking on “Submit” button.
+    - Once submitted, users need to click on “Segment” button for segmentation process initiation.
+    - The segmented images are then displayed after processing, then it waits for 2 seconds before automatically redirecting to the homepage.
+8. There is also the "Search Bar" in the homepage wherethe user can search by name of patients, and it works on key press.
+
 
 ## **Short API Documentation**
 
