@@ -556,13 +556,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#storyboard" class="md-nav__link">
-    Storyboard
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#short-api-documentation" class="md-nav__link">
     Short API Documentation
   </a>
@@ -833,7 +826,22 @@
 <p>The team successfully completed the project report, summarizing the overall project, its goals, achievements, and lessons learned.</p>
 <p>Sprint 6 marked the final stage of the project, with all requested changes implemented and the project successfully finalized.</p>
 <h2 id="application-walk-through"><strong>Application Walk Through</strong></h2>
-<h2 id="storyboard"><strong>Storyboard</strong></h2>
+<p>The application workflow is described below. For the website diagram of the project, click <a href="../web-diagram/">here</a>.</p>
+<ol>
+<li>Home Page (before login): The user is first greeted with a home page that has a search bar and a login button.</li>
+<li>Login Page: By clicking on the login button, the user is redirected to the login page where they need to fill in their credentials and click on the login button to access their account.</li>
+<li>Home Page (after login): After successful authentication, users are automatically redirected back to an enhanced version of the home page where they can now access the complete dashboard, including the names and folders of the patients.</li>
+<li>Dashboard of Selected Patient: Users can click on a folder icon which takes them to a dashboard containing multiple images related to selected patients.</li>
+<li>Details of Selected Image: Clicking on any image opens up detailed information about that particular image.</li>
+<li>Segment Page: There’s also an option called “Segment” on the navigation bar which users can click. It leads them to a segment page where they can upload images for segmentation.<ul>
+<li>Users upload an image by clicking on the “dropzone” area and selecting an image from their device.</li>
+<li>After selecting an image, users have options like “Reset”, “Reset All” before finally submitting it by clicking on “Submit” button.</li>
+<li>Once submitted, users need to click on “Segment” button for segmentation process initiation.</li>
+<li>The segmented images are then displayed after processing, then it waits for 2 seconds before automatically redirecting to the homepage.</li>
+</ul>
+</li>
+<li>There is also the "Search Bar" in the homepage wherethe user can search by name of patients, and it works on key press.</li>
+</ol>
 <h2 id="short-api-documentation"><strong>Short API Documentation</strong></h2>
 <p>The following APIs were used for the entire backend of the project.</p>
 <table>
