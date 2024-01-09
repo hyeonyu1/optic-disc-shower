@@ -5,7 +5,8 @@ nav:
   - User Story: user-stories.md
   - Project Plan: project-plan.md
   - Report: report.md
-    
+  - Website Diagram: web-diagram.md
+
 theme:
   name: material
   features:
@@ -22,9 +23,9 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline 
+        icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-    - scheme: slate 
+    - scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode    
+        name: Switch to light mode
