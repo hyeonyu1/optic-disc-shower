@@ -138,7 +138,7 @@ Sprint 5 provided a valuable mid-project evaluation, ensuring that the project w
 Sprint 6 focused on implementing requested changes and finalizing the project. The team effectively completed the following tasks:
 
 - The team ensured the git issue tracker was updated, reflecting the latest changes and addressing any remaining issues.
-  - US 6.01 - Make Changes Updated on Inspection: User Story 6.01, involving making changes identified during inspection, was successfully implemented. This step is crucial for addressing any final adjustments or improvements. This includes the following:
+  - US 8.01 - Make Changes Updated on Inspection: User Story 8.01, involving making changes identified during inspection, was successfully implemented. This step is crucial for addressing any final adjustments or improvements. This includes the following:
     - Creation of a separate popup block with the details of every image.
     - Creation of a pseudo-symptom checkbox with showing the final results as it should be after the entire procedure is done.
 
@@ -147,6 +147,11 @@ Sprint 6 focused on implementing requested changes and finalizing the project. T
 The team successfully completed the project report, summarizing the overall project, its goals, achievements, and lessons learned.
 
 Sprint 6 marked the final stage of the project, with all requested changes implemented and the project successfully finalized.
+
+
+## **Application Walk Through**
+
+## **Storyboard** 
 
 ## **Short API Documentation**
 

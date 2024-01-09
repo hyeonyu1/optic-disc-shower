@@ -62,7 +62,7 @@
 **I want** the software to include a "Logout" option
 **So that I** ccan securely exit my session and return to the login page when needed
 
-### **US 8.01 - Updated on Inspection**
+### **US 8.01 -  Display Detailed Information (Updated on Inspection)**
 
 **As an ophthalmologist**
 **I want** the software to have a detailed popup about the Optic disc and its symptoms
@@ -76,6 +76,7 @@
 - US 4.01 - Display Segmentation Results
 - US 4.02 - Display Past Segmentation Results
 - US 4.03 - Display Multiple Segmentation Results
+- US 8.01 - Display Detailed Information
 
 ### **Should Have**
 

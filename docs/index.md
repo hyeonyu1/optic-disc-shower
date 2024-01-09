@@ -36,7 +36,9 @@ The web application interface offers users a seamless and intuitive experience, 
 
 ### **Communication**
 
-- Whatsapp (:
+- Whatsapp
+- GitHub
+- In Person
 
 ### **Project Management**
 
